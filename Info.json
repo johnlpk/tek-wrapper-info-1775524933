@@ -1,0 +1,34 @@
+{
+  "HosterName": "EpicARK",
+  "ServerName": "EpicARK PVP",
+  "ClusterName": "EpicARK Community",
+  "IconUrl": "https://i.imgur.com/7jshChS.png",
+  "Discord": "https://discord.gg/7JTREUEV6x",
+  "ServerDescription":
+  {
+    "MaxDinoLvl": 225,
+    "Taming": 50,
+    "Experience": 20,
+    "Harvesting": 20,
+    "Breeding": 25,
+    "Stacks": 5000,
+    "Other":
+    [
+        "The Best ARK ASE PVP Server!"
+    ]
+  },
+  "ClusterDescription":
+  {
+    "MaxDinoLvl": 150,
+    "Taming": 50,
+    "Experience": 20,
+    "Harvesting": 20,
+    "Breeding": 25,
+    "Stacks": 5000,
+    "Other":
+    [
+        "Come and be part of the largest ARK Survival Evolved community!",
+        "EpicARK!"
+    ]
+  }
+}
